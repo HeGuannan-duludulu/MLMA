@@ -31,3 +31,9 @@ The files and labels in the 'all_dwt' folder are utilized for model training.
 
 
 Feel free to download the original datasets from the official website and use the scripts in this repository to extract the features and train the models!
+
+
+How to install the required packages:
+```bash
+pip install -r requirements.txt
+```
